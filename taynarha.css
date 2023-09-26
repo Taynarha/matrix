@@ -1,0 +1,28 @@
+div{
+    width: 500px;
+    margin: 30px auto;
+}
+h1{
+    font-size: 28px;
+    font-family: verdana;
+    color: white;
+}
+
+img{
+    width: 500px;
+    border: 5px solid #009200;
+}
+
+p{
+    font-size: 18px;
+    font-family: Verdana; 
+    color: white;
+    text-align: justify;
+}
+
+span{
+    border-bottom: 3px solid #009200;
+    border-left: 3px solid #009200;
+}
+
+body{background-color: black;}
